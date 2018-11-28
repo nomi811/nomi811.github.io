@@ -266,6 +266,11 @@ h2 ~ p {
   background-color: #000;
   color: #fff;
 }
+.half-hero {
+  background-position: center center;
+  background-size: cover;
+  height: 40vh;
+}
 
 /* SOCIAL STYLES */
 .social-link {
